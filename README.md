@@ -19,4 +19,4 @@ Farmify requires an internet connection to work and also requires a PC or smartp
 - JavaScript
 - CSS
 - HTML
-- (Glide)[https://glideapps.com/]
+- [Glide](https://glideapps.com)
