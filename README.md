@@ -12,7 +12,7 @@ With Farmify, poultry farmers will be able to do the following;
 - Register feeds given to the poultry birds.
 - Log the records of how feeds are given to the poultry birds.
 
-## Limitations
+## Requirements
 Farmify requires an internet connection to work and also requires a PC or smartphone.
 
 ## Tools Used
