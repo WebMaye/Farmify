@@ -14,3 +14,9 @@ With Farmify, poultry farmers will be able to do the following;
 
 ## Limitations
 Farmify requires an internet connection to work and also requires a PC or smartphone.
+
+## Tools Used
+- JavaScript
+- CSS
+- HTML
+- Glide
