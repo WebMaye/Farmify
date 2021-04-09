@@ -1,5 +1,5 @@
 # Farmify
-The easiest way to manage your poultry farm records.
+The easiest way to manage your poultry farm records.  
 Farmify enables farmers with the tools to manage their poultry farm records.
 
 ## Getting Started
